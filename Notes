@@ -1,0 +1,7 @@
+Docker
+1) FROM will always start a container
+2) COPY folder onto docker container
+3) EXPOSE they have their own set of ports: EXPOSE 5000
+4) WORKDIR specify the working directory of container  when starting
+5) RUN pip  installs, etc.
+6) CMD last piece of command you want to run.  To make sure it keeps running 
